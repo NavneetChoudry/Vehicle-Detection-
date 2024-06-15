@@ -14,8 +14,6 @@ import re
 from os import walk
 import os
 
-# Vehicle_counter from Dan Maesks response on 
-# https://stackoverflow.com/questions/36254452/counting-cars-opencv-python-issue/36274515#36274515
 
 # get working directory
 loc = os.path.abspath('')
